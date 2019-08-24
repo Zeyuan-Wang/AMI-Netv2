@@ -7,7 +7,7 @@ your research.
 
 ## Introduction
 
-* AMI-Net+ is the improvement of our previous work, AMI-Net, to further resolve the incomplete and imbalanced data. We change the cross-entropy to the focal loss and propose a self-adaptive pooling on the instance-level. The overall architecture shows here. Enjoy.
+AMI-Net+ is the improvement of our previous work, AMI-Net, to further resolve the incomplete and imbalanced data. We change the cross-entropy to the focal loss and propose a self-adaptive pooling on the instance-level. The overall architecture shows here. Enjoy.
 
 <br/>
 <div align="middle"><img src="https://github.com/Zeyuan-Wang/AMI-Netv2/blob/master/img/AMI-Net+.png"width="70%"></div>
